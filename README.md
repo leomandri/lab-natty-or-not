@@ -38,3 +38,11 @@ O projeto demonstra o poder das IAs Generativas na criação de conteúdo de mar
 💭 Reflexão
 
 Criar algo “natty” com IA foi desafiador e empolgante. O equilíbrio entre o real e o artificial mostra como a tecnologia pode não apenas substituir processos criativos, mas também expandir o potencial humano de imaginar o impossível.
+
+## 📸 Imagens da Campanha
+
+### Banner Principal
+![Ecolife X Banner](https://github.com/leomandri/lab-natty-or-not/blob/main/ecolife-x-banner.png)
+
+### Produto
+![Ecolife X Produto](https://github.com/leomandri/lab-natty-or-not/blob/main/ecolife-x-produto.png)
